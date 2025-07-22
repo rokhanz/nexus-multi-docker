@@ -9,7 +9,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/rokhanz/nexus-multi-docker?style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/rokhanz/nexus-multi-docker?style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/rokhanz/nexus-multi-docker)
-![GitHub license](https://img.shields.io/github/license/rokhanz/nexus-multi-docker)
 ![Bash](https://img.shields.io/badge/Bash-4.0%2B-green)
 ![Docker](https://img.shields.io/badge/Docker-20.10%2B-blue)
 ---
