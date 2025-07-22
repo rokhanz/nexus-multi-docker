@@ -50,7 +50,7 @@
 
 ```bash
 # Download and setup
-wget https://raw.githubusercontent.com/rokhanz/nexus-multi/main/nexus-multi.sh
+wget https://raw.githubusercontent.com/rokhanz/nexus-multi-docker/main/nexus-multi.sh
 chmod +x nexus-multi.sh
 
 # Run the manager
