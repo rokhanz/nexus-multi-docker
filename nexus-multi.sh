@@ -5,6 +5,7 @@
 # Version: 2.0 (Updated: 2025-07-21)
 # Author: ROKHANZ
 # Repository: https://github.com/rokhanz/nexus-multi-docker
+# LICENSE: MIT
 
 # Colors untuk output
 RED='\033[0;31m'
