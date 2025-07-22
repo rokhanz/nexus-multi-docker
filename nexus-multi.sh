@@ -138,7 +138,6 @@ EOF
     
     # Start container
     if docker run -d --name "$node_name" \
-        --network host \
         $DEVICE_ARGS \
         $proxy_env \
         -p "$port:10000" \
@@ -1655,7 +1654,6 @@ EOF
         print_node_message $i "Starting on port $port..."
         
         if docker run -d --name "$node_name" \
-            --network host \
             $DEVICE_ARGS \
             $proxy_env \
             -p "$port:10000" \
